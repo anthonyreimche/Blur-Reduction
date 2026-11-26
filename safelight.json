@@ -1,7 +1,7 @@
 {
   "id": "blur-reduction",
   "name": "Blur Reduction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Undoes motion blur, focus blur and soft Gaussian blur by deconvolution. Set the blur's shape with sliders, or trace a motion streak on the photo, and Richardson-Lucy deconvolution with noise suppression restores the detail. Works on luminance in linear light, so colours stay put, and inside masks for a moving subject.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",
@@ -9,5 +9,5 @@
   "categories": ["Develop"],
   "keywords": ["deblur", "blur reduction", "motion blur", "camera shake", "out of focus", "deconvolution", "richardson-lucy", "detail"],
   "repository": "anthonyreimche/Blur-Reduction",
-  "minAppVersion": "3.2.7"
+  "minAppVersion": "3.2.8"
 }
