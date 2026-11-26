@@ -1,7 +1,7 @@
 {
   "name": "safelight-blur-reduction",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Blur Reduction extension for Safelight: undoes motion, focus and Gaussian blur by Richardson-Lucy deconvolution of linear luminance.",
   "type": "module",
   "scripts": {
